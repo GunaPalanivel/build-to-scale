@@ -120,7 +120,7 @@ Every week closes with tangible proof of progress completed Mon-Fri:
 | **Medium**   | Git & Source Control         | 8.0     | 9.0    | 1.0 | 3 weeks (W22-24) | Week 24             |
 
 **Total Gap Score:** 19.0 points across 10 skills  
-**Average Gap per Skill:** 1.85 points  
+**Average Gap per Skill:** 1.90 points  
 **Largest Gaps (High-Risk Areas):** Firebase (3.0), SQL & Database Design (2.0), DSA (2.0), Java Backend (3.5), System Design (2.0)
 
 ---
