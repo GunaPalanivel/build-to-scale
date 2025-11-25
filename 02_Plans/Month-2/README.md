@@ -1,6 +1,6 @@
 ﻿## Overview
 
-Month 2 elevates you from frontend and core JavaScript fundamentals to advanced, production-ready web engineering. The focus is split between deep Firebase integration (Auth, Firestore, Cloud Functions, Security, Monitoring) and taking JavaScript into advanced patterns and robust full-stack workflows. The final two weeks emphasize testing, automation, and shipping a complete e-commerce platform—mirroring Stripe-level engineering delivery.
+Month 2 elevates you from frontend and core JavaScript fundamentals to advanced, production-ready web engineering. The focus is split between deep Firebase integration (Auth, Firestore, Cloud Functions, Security, Monitoring) and taking JavaScript into advanced patterns and robust full-stack workflows. The final two weeks emphasize testing, automation, and shipping a complete e-commerce platform—mirroring product-based companies-level engineering delivery.
 
 **Target skill level for all areas this month is 9/10—no more, no less.**
 

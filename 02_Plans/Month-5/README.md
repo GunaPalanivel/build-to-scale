@@ -127,7 +127,7 @@ Week 20 & Month 5 Success Metrics:
 - Treat each week as a discrete deployable microservice of learning with defined input/output:
   - Input: current skill gaps prioritized by company and career goals
   - Output: quantifiable mastery in problem-solving and system design
-- Use test-driven, measurable progress metrics to ensure alignment with Stripe/FAANG standards
+- Use test-driven, measurable progress metrics to ensure alignment with product-based companies/top-tier tech companies standards
 - Embed continuous feedback through weekly mock interviews and peer reviews to iterate rapidly
 - Ground behavioral mastery on genuine experience and structured frameworks like LP-STAR
 - Emulate principles seen in production: build incrementally, test thoroughly, reflect clearly

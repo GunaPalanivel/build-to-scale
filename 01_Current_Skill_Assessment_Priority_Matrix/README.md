@@ -10,12 +10,12 @@
 
 ## Executive Overview
 
-This document prioritizes skill areas critical for success in ThinkBridge's apprenticeship program and aligns with long-term career goals in elite product companies (Stripe, FAANG, etc.). It quantifies current competencies versus target proficiency (9/10 fixed target) and lays out gaps guiding the **6-month sustainable "brick by brick" learning plan**.
+This document prioritizes skill areas critical for success in ThinkBridge's apprenticeship program and aligns with long-term career goals in elite product companies (product-based companies, top-tier tech companies, etc.). It quantifies current competencies versus target proficiency (9/10 fixed target) and lays out gaps guiding the **6-month sustainable "brick by brick" learning plan**.
 
 ### Core Strategic Approach
 
 **Sustainable Execution Over Burnout:**
-This plan operates on a **24-week endurance model**, not a sprint. Success comes from **consistent execution with mental clarity**, not exhaustion. Elite engineers at Stripe/FAANG sustain performance over years by protecting their cognitive energy.
+This plan operates on a **24-week endurance model**, not a sprint. Success comes from **consistent execution with mental clarity**, not exhaustion. Elite engineers at product-based companies/top-tier tech companies sustain performance over years by protecting their cognitive energy.
 
 **Weekly Execution Model (95% of weeks):**
 
@@ -161,13 +161,13 @@ I'll correct the data inconsistencies and create a single source of truth table:
 
 ### Career Outcome Metrics
 
-| Metric                                | Target                         | Tracking Method          | Milestone          |
-| ------------------------------------- | ------------------------------ | ------------------------ | ------------------ |
-| ThinkBridge Cohort Ranking            | Top 10% → Top 0.00001%         | Leaderboard              | Weekly progression |
-| ThinkBridge Apprenticeship Acceptance | Accepted by Week 6-8           | Official notification    | Phase 1 checkpoint |
-| FAANG Interview Readiness             | 95%+ mock pass rate            | Mock interview platforms | Week 16, Week 24   |
-| Portfolio Quality                     | 3 Stripe-level showcase apps   | Peer/mentor review       | Week 24            |
-| LinkedIn Profile Optimization         | Recruiter engagement rate >20% | LinkedIn analytics       | Week 24            |
+| Metric                                      | Target                                        | Tracking Method          | Milestone          |
+| ------------------------------------------- | --------------------------------------------- | ------------------------ | ------------------ |
+| ThinkBridge Cohort Ranking                  | Top 10% → Top 0.00001%                        | Leaderboard              | Weekly progression |
+| ThinkBridge Apprenticeship Acceptance       | Accepted by Week 6-8                          | Official notification    | Phase 1 checkpoint |
+| top-tier tech companies Interview Readiness | 95%+ mock pass rate                           | Mock interview platforms | Week 16, Week 24   |
+| Portfolio Quality                           | 3 product-based companies-level showcase apps | Peer/mentor review       | Week 24            |
+| LinkedIn Profile Optimization               | Recruiter engagement rate >20%                | LinkedIn analytics       | Week 24            |
 
 ---
 
@@ -186,7 +186,7 @@ I'll correct the data inconsistencies and create a single source of truth table:
 
 ### Phase 2: Backend & Problem-Solving Foundation (Weeks 9-18)
 
-**Objective:** Build FAANG-interview-ready backend and algorithmic thinking
+**Objective:** Build top-tier tech companies-interview-ready backend and algorithmic thinking
 
 **Skills:** Java, DSA, SQL, Behavioral (all High priority)  
 **Work Model:** 50 work days (Mon-Fri) + 20 rest days (Sat-Sun)  
@@ -219,7 +219,7 @@ I'll correct the data inconsistencies and create a single source of truth table:
 
 **2. High Priority Second (Weeks 9-18):**
 
-- **Why:** Backend + DSA foundation enables FAANG interview competency
+- **Why:** Backend + DSA foundation enables top-tier tech companies interview competency
 - **Execution:** Incremental Java mastery → algorithmic thinking → communication skills
 - **Risk Mitigation:** Java learning curve (3.5 gap) addressed over 3 weeks with projects
 - **Rest Strategy:** 20 weekend rest days during most intense learning phase
@@ -280,7 +280,7 @@ I'll correct the data inconsistencies and create a single source of truth table:
 
 - Most candidates burn out by Week 10-12 from overwork
 - You'll be **fresh, focused, and accelerating** when others fade
-- ThinkBridge + FAANG want engineers who sustain excellence, not who sprint and crash
+- ThinkBridge + top-tier tech companies want engineers who sustain excellence, not who sprint and crash
 
 **What elite engineers know:**
 
@@ -324,7 +324,7 @@ I'll correct the data inconsistencies and create a single source of truth table:
 - **120 focused days** of execution (Mon-Fri at peak performance)
 - **48 full weekends** of rest (Sat-Sun protected for recovery)
 - Arrive at ThinkBridge interviews **calm, sharp, and confident**
-- Enter FAANG interviews with **sustained excellence, not desperation**
+- Enter top-tier tech companies interviews with **sustained excellence, not desperation**
 
 > **"Discipline isn't grinding every day. Discipline is having the self-control to rest when you need it, so you can execute at 100% when it matters."**
 

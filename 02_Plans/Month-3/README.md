@@ -339,7 +339,7 @@ Each week is a microservice in your backend engineering capability:
 - **Week 11 (Collections):** Data layer—optimal storage, retrieval, performance tuning
 - **Week 12 (Exceptions & I/O):** Reliability layer—error handling, persistence, resilience
 
-Just like at Stripe or Google, each component must be:
+Just like at product-based companies or Google, each component must be:
 
 - **Well-tested:** Every project includes error handling and edge cases
 - **Performant:** Measure complexity, optimize where needed

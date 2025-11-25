@@ -3,7 +3,7 @@
 ## From Current State to Production-Ready Engineer (Level 9/10)
 
 **Timeline:** 24 weeks (120 active learning days)  
-**Target Outcome:** ThinkBridge apprenticeship acceptance + FAANG-ready competency  
+**Target Outcome:** ThinkBridge apprenticeship acceptance + top-tier tech companies-ready competency  
 **Assessment Date:** November 24, 2025  
 **Completion Target:** May 24, 2026  
 **Review Cadence:** Weekly self-assessment every Friday evening
@@ -24,7 +24,7 @@ This is a **priority-driven, sustainable learning roadmap** designed to close cr
 
 ### Sustainable Execution Model
 
-**This is a 24-week marathon, not a sprint.** My competitive advantage comes from **consistent execution with mental clarity**, not exhaustion. Elite engineers at Stripe/FAANG sustain performance over years by protecting their cognitive energy.
+**This is a 24-week marathon, not a sprint.** My competitive advantage comes from **consistent execution with mental clarity**, not exhaustion. Elite engineers at product-based companies/top-tier tech companies sustain performance over years by protecting their cognitive energy.
 
 **Weekly Cadence (95% of weeks):**
 
@@ -48,7 +48,7 @@ Skills are attacked in **dependency order** and **business value order**:
 **Critical → High → Medium Priority**
 
 - **Critical skills first:** Immediate survival/success at ThinkBridge (Weeks 1-8)
-- **High-priority second:** Long-term career mobility & FAANG readiness (Weeks 9-16)
+- **High-priority second:** Long-term career mobility & top-tier tech companies readiness (Weeks 9-16)
 - **Medium-priority last:** Professional polish and production scale (Weeks 17-24)
 
 ### 2. "Feature Branch" Learning Model
@@ -153,7 +153,7 @@ Every week closes with tangible proof of progress completed Mon-Fri:
 
 ### **Phase 2: Backend & Problem-Solving Foundation (Months 3-4, Weeks 9-16)**
 
-**Objective:** Build FAANG-interview-ready backend and algorithmic thinking
+**Objective:** Build top-tier tech companies-interview-ready backend and algorithmic thinking
 
 **Focus Areas (All High Priority):**
 
@@ -171,7 +171,7 @@ Every week closes with tangible proof of progress completed Mon-Fri:
 
 **Rest Days:** 16 full rest days (Sat-Sun every week)
 
-**Success Metric:** Pass 3 mock FAANG interviews (2 technical DSA + 1 behavioral) by Week 16
+**Success Metric:** Pass 3 mock top-tier tech companies interviews (2 technical DSA + 1 behavioral) by Week 16
 
 ---
 
@@ -194,7 +194,7 @@ Every week closes with tangible proof of progress completed Mon-Fri:
 
 **Rest Days:** 16 full rest days (Sat-Sun every week)
 
-**Success Metric:** Ship 3 portfolio-worthy apps demonstrating Level 9 competency; ready for Stripe/FAANG interviews
+**Success Metric:** Ship 3 portfolio-worthy apps demonstrating Level 9 competency; ready for product-based companies/top-tier tech companies interviews
 
 ---
 
@@ -317,9 +317,9 @@ Every week closes with tangible proof of progress completed Mon-Fri:
 **🎯 Phase 3 Checkpoint (End of Week 24):**
 
 - ✅ All Medium-priority skills at target (Level 9 achieved)
-- ✅ Portfolio: 3 Stripe-level apps ready for review
+- ✅ Portfolio: 3 product-based companies-level apps ready for review
 - ✅ 15 STAR stories memorized
-- ✅ Fresh mind ready for FAANG interviews
+- ✅ Fresh mind ready for top-tier tech companies interviews
 
 ---
 
@@ -377,7 +377,7 @@ Every week closes with tangible proof of progress completed Mon-Fri:
 
 - Most candidates burn out by Week 10-12 from overwork
 - You'll be **fresh, focused, and accelerating** when others fade
-- ThinkBridge + FAANG want engineers who sustain excellence, not who sprint and crash
+- ThinkBridge + top-tier tech companies want engineers who sustain excellence, not who sprint and crash
 
 ---
 
@@ -416,7 +416,7 @@ Complete everything Mon-Fri → Saturday is also rest ✅
 - [ ] 15 STAR behavioral stories memorized (covering leadership, conflict, failure, collaboration)
 - [ ] 95%+ mock interview pass rate (minimum 5 mocks completed: 3 DSA + 2 behavioral)
 - [ ] Resume updated with Level 9 skills and quantified project impacts
-- [ ] LinkedIn optimized for FAANG recruiters (headline, summary, projects)
+- [ ] LinkedIn optimized for top-tier tech companies recruiters (headline, summary, projects)
 - [ ] GitHub profile polished (pinned repos, README, contribution graph)
 
 ### **Apprenticeship Success**
@@ -487,7 +487,7 @@ Week 22-24: Integration → 3 portfolio apps shipped
 
 ## Final Philosophy: Calm Mind = Competitive Advantage
 
-**What elite engineers at Stripe/FAANG know:**
+**What elite engineers at product-based companies/top-tier tech companies know:**
 
 - Code quality degrades when exhausted
 - System design thinking requires mental clarity
@@ -499,7 +499,7 @@ Week 22-24: Integration → 3 portfolio apps shipped
 - 120 focused days of execution (Mon-Fri at peak performance)
 - 48 full weekends of rest (Sat-Sun protected for recovery)
 - Arrive at ThinkBridge interviews **calm, sharp, and confident**
-- Enter FAANG interviews with **sustained excellence, not desperation**
+- Enter top-tier tech companies interviews with **sustained excellence, not desperation**
 
 > **"Discipline isn't grinding every day. Discipline is having the self-control to rest when you need it, so you can execute at 100% when it matters."**
 
@@ -533,4 +533,4 @@ Sun:     FULL REST (always protected, no exceptions)
 
 **Next Review:** Week 1 Friday (self-assessment), Week 8 (Phase 1 checkpoint), Week 16 (Phase 2 checkpoint), Week 24 (final review)
 
-This is My **complete north star document**—prioritized, measurable, sustainable, and aligned with both ThinkBridge survival and long-term FAANG readiness. Each week is a shippable feature; each month is a release cycle; the full 6 months is My V1.0 launch as a Level 9 engineer with a calm, fresh mind ready to compete at the highest level.
+This is My **complete north star document**—prioritized, measurable, sustainable, and aligned with both ThinkBridge survival and long-term top-tier tech companies readiness. Each week is a shippable feature; each month is a release cycle; the full 6 months is My V1.0 launch as a Level 9 engineer with a calm, fresh mind ready to compete at the highest level.
