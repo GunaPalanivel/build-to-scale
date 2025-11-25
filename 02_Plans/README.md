@@ -58,5 +58,3 @@ This keeps pace manageable, reduces burnout risks, and aligns with engineering i
 - 24 weeks × 5 active days = **120 learning days** with structured growth goals
 - 24 Saturdays = **24 review days** dedicated to bug fixing, reinforcing learning, and closing gaps
 - Sundays left flexible for rest or light cognitive tasks to sustain endurance.
-
----
