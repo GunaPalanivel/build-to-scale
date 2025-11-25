@@ -1,133 +1,136 @@
-﻿# Month 5: Advanced DSA & System Design
+﻿# Month 5 Learning Plan: Advanced DSA & System Design
+
+### Industry-standard Detailed Execution Document
+
+---
 
 ## Overview
 
-Month 5 focuses on intensive interview preparation through mastering advanced data structures & algorithms (DSA) and system design fundamentals. This month sharpens problem-solving skills with complex algorithmic paradigms and prepares you to architect scalable, reliable systems—critical capabilities for elite technical interviews and real-world engineering leadership.
+Month 5 intensifies interview readiness by mastering advanced data structures, algorithms, and system design fundamentals. You will solve complex algorithmic problems, implement key data structures, and produce detailed system designs, preparing for elite technical interviews and leadership challenges.
 
-**Target skill level is exactly 9/10 for all topics—consistent with previous months.**
+**Target proficiency:** Precisely 9/10 across all topics.
 
 ---
 
 ## Monthly Goals
 
-- Solve 70+ advanced LeetCode problems, reaching 120+ cumulative total
-- Implement 12+ advanced data structures from scratch (e.g., AVL trees, Red-Black trees, graphs)
-- Understand and document 25+ algorithmic patterns (DP, greedy, backtracking)
-- Design at least 6 detailed system design case studies with architecture diagrams and trade-off analysis
-- Conduct 4+ mock coding interviews with peer or mentor feedback
-- Prepare 15 STAR behavioral stories linking projects to leadership principles
-- Score 90%+ on end-of-month assessments
+- Solve 70+ advanced LeetCode problems (120+ cumulative).
+- Implement 12+ advanced data structures (AVL trees, Red-Black trees, graphs).
+- Document 25+ algorithmic patterns (DP, greedy, backtracking).
+- Design 6 detailed system architectures with diagrams and trade-offs.
+- Conduct 4+ mock coding interviews with iterative feedback.
+- Prepare 15 STAR behavioral stories aligned with leadership principles.
+- Score ≥90% on end-of-month assessments.
 
 ---
 
 ## Study Schedule
 
-- **Study Days:** Monday to Friday (5 days/week)
-- **Review Day:** Saturday as project, catch-up & reinforcement
-- **Rest Day:** Sunday for assessment and planning
+- **Mon-Fri:** Intensive study, coding, and problem solving.
+- **Saturday:** Project review, catch-up, reinforcement.
+- **Sunday:** Assessment, reflection, planning.
 
 ---
 
 ## Weekly Breakdown
 
-### Weeks 17-18: Data Structures & Algorithms Intensive
+### Weeks 17-18: Advanced Data Structures & Algorithms
 
-Daily Structure:
+- Deep dive into trees, graphs, heaps, tries, DP, greedy, backtracking, divide and conquer.
+- Solve 3-5 LeetCode algorithm problems per day focused on studied topics.
+- Review and document time/space complexity and reusable patterns.
 
-- **Morning (2h):** Study one advanced data structure or algorithm paradigm deeply
-- **Afternoon (3h):** Solve 3-5 LeetCode problems focused on studied topic
-- **Evening (1h):** Review solutions, document learned patterns, and time/space complexity considerations
+**Success Metrics:**
 
-Example Focus Areas:
-
-- Trees: binary, AVL, Red-Black
-- Graphs: traversal, shortest paths, cycles
-- Heaps & priority queues
-- Tries and advanced string algorithms
-- Dynamic programming: memoization, tabulation
-- Greedy algorithms and backtracking
-- Divide and conquer techniques
-- Complexity analysis and optimization strategies
-
-Metrics Targets:
-
-- ✅ 70+ additional LeetCode problems solved (120+ total)
-- ✅ 12 data structures implemented from scratch
-- ✅ 25+ algorithmic patterns documented
-- ✅ 90%+ of solutions optimized for time and space
-- ✅ 4 mock coding interviews with detailed feedback
+- 70+ LeetCode problems solved this month (120+ cumulative)
+- 12+ data structures implemented from scratch
+- 25+ algorithmic patterns documented
+- 4 mock interviews with peer/mentor feedback
 
 ---
 
 ### Week 19: System Design Fundamentals
 
-Days 127-129 (Monday-Wednesday)
+- Study scalability, CAP theorem, availability, reliability principles.
+- Implement 3 system design case studies (URL shortener, social feed, rate limiter) with architecture diagrams and trade-off analyses.
+- Dive into microservices architecture; deploy 3 microservices demonstrating inter-service communication.
+- Capstone: Design an e-commerce platform for 100K+ users with detailed architecture.
 
-- Study scalability, availability, reliability principles, and CAP theorem
-- Learn common design patterns: load balancing, caching, CDN, sharding
-- Work through 3 system design case studies: URL shortener, social feed, rate limiter
-- Produce detailed architecture diagrams with trade-off explanations
+**Success Metrics:**
 
-Days 130-131 (Thursday-Friday)
-
-- Dive into microservices architecture concepts: service discovery, API gateways, inter-service communication
-- Practice converting monolithic apps into microservices
-- Deploy 3 microservices with inter-communication patterns
-
-Days 132-133 (Saturday-Sunday)
-
-- Capstone project: design an e-commerce platform capable of 100K+ users
-- Create comprehensive architecture diagrams, document trade-offs for scalability, fault tolerance
-
-Week 19 Success Metrics:
-
-- ✅ 6 detailed system design case studies completed
-- ✅ Comprehensive architecture diagrams produced
-- ✅ 3 microservices deployed and tested
-- ✅ System design proficiency rated at 7.5/10
+- 6 system design case studies completed
+- 3 microservices deployed and tested
+- System design rated 7.5/10
 
 ---
 
 ### Week 20: Behavioral Skills & Interview Mastery
 
-Days 134-135 (Monday-Tuesday)
+- Intensive STAR storytelling practice (15 stories) tied to leadership principles.
+- Technical communication exercises with peer feedback.
+- Conduct mock behavioral interviews with ≥85% performance.
+- Final month assessment with ≥90% target score.
+- Portfolio update and polishing.
 
-- Intensive STAR storytelling practice—prepare 15 in-depth stories derived from real projects
-- Map stories to Amazon’s Leadership Principles and similar frameworks
-- Record, review, and refine behavioral interview responses
-- Achieve completion of a comprehensive behavioral story bank
+**Success Metrics:**
 
-Days 136-137 (Wednesday-Thursday)
-
-- Practice technical communication—present 3 technical talks on your projects
-- Obtain and incorporate peer feedback on clarity and engagement
-
-Day 138 (Friday)
-
-- Conduct 2 full mock behavioral interviews targeting ≥85% score
-
-Days 139-140 (Saturday-Sunday)
-
-- Final assessment: comprehensive 70-question test targeting ≥90%
-- Update and polish portfolio reflecting all months’ work
-
-Week 20 & Month 5 Success Metrics:
-
-- ✅ Behavioral assessment score ≥63/70 (90%)
-- ✅ Total LeetCode problems solved ≥120
-- ✅ 6 system design case studies completed
-- ✅ Complete behavioral STAR story bank (15 stories)
-- ✅ 6+ mock interviews conducted with ≥95% pass rate
-- ✅ Achieve 9/10 mastery in DSA, system design, and behavioral skills
+- Behavioral assessment score ≥90%
+- 120+ total LeetCode problems solved
+- Complete behavioral story bank (15 stories)
+- 6+ mock interviews passed with ≥95% success
+- 9/10 mastery in DSA, system design, behavioral skills
 
 ---
 
-## Engineering Approach & Philosophy
+## Execution Model: 5+2 Structure
 
-- Treat each week as a discrete deployable microservice of learning with defined input/output:
-  - Input: current skill gaps prioritized by company and career goals
-  - Output: quantifiable mastery in problem-solving and system design
-- Use test-driven, measurable progress metrics to ensure alignment with product-based companies/top-tier tech companies standards
-- Embed continuous feedback through weekly mock interviews and peer reviews to iterate rapidly
-- Ground behavioral mastery on genuine experience and structured frameworks like LP-STAR
-- Emulate principles seen in production: build incrementally, test thoroughly, reflect clearly
+| Day      | Activity                                             | Notes                                           |
+| -------- | ---------------------------------------------------- | ----------------------------------------------- |
+| Mon-Fri  | Learning, coding, reviewing                          | 7-9 hours/day with meaningful Git commits       |
+| Saturday | Rest, integration, or emergency catch-up (max 4 hrs) | Critical fixes only; rest prioritized           |
+| Sunday   | Full rest                                            | No work, no planning; mental recovery mandatory |
+
+---
+
+## Daily Workflow (Mon-Fri)
+
+- Morning: Study topic + algorithm exploration
+- Afternoon: Solve challenges + project implementations
+- Evening: Review solutions + document learnings + plan next day
+
+---
+
+## Mental Health & Discipline Philosophy
+
+- Two rest days key for cognitive consolidation, burnout prevention, and creative problem solving.
+- Consistent execution at sustainable pace overrides burnout-prone intense sprints.
+- Protecting rest days leads to high sustained output.
+
+| Approach                 | Week 1-4 | Week 20-24 | Burnout Risk | Quality           |
+| ------------------------ | -------- | ---------- | ------------ | ----------------- |
+| 7-day grind              | High     | Crashed    | 95%          | Poor              |
+| **5-day focus + 2 rest** | High     | High       | 5%           | Excellent (ideal) |
+
+---
+
+## Crisis Protocol: Saturday Catch-Up
+
+- Use only if assessment risk, deadline risk, or illness impacts ≥2 days Mon-Fri.
+- Limit catch-up to 4 focused hours with adequate breaks.
+- Sunday fully protected always.
+
+---
+
+## GitHub Workflow & Project Management
+
+- Feature branches per weekly goal (`feature/dsa-advance`, `feature/system-design`)
+- Frequent commits tied to deliverables and code reviews
+- Weekly merges after peer feedback
+
+---
+
+## Engineering Philosophy
+
+- Decompose months into deployable, testable microservice-like skill sprints.
+- Embed quantitative metrics and peer feedback loops to track mastery.
+- Balance technical depth with polished behavioral skills for holistic readiness.
